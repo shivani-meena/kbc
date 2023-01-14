@@ -24,7 +24,7 @@ print("your game starts now")
 
 
 i=0
-money=1000
+money=0
 c=1
 while i<len(question_list):
     print(question_list[i])
