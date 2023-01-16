@@ -5,11 +5,11 @@ question_list=[
               "which is national flower of India?",
               "who is the president of india?"]
 options_list=[
-            ["Four","Nine","Seven","Eight",],
-            ["Chandigarh","Bhopal","Chennai","Delhi"],
-            ["Software Engineering" ,"Counseling","Tourism","Agriculture"],
-            ["Rose","Lotus","sunflower","merygold"],
-            ["Ramnath Kovind","Droupadi murmu","Nirmala Sitharaman","indira gandhi",]]
+            ["1.Four","2.Nine","3.Seven","4.Eight",],
+            ["1.Chandigarh","2.Bhopal","3.Chennai","4.Delhi"],
+            ["1.Software Engineering" ,"2.Counseling","3.Tourism","4.Agriculture"],
+            ["1.Rose","2.Lotus","3.sunflower","4.merygold"],
+            ["1.Ramnath Kovind","2.Droupadi murmu","3.Nirmala Sitharaman","4.indira gandhi",]]
 
 solution_list=[3,4,1,2,2]
 
